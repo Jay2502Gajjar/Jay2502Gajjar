@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on learning Machine Learning and Data Science.<br> I’m looking to collaborate with people who are interested in ML and tech.<br> I’m currently learning Python, data analysis, and ML fundamentals.<br>💬 Ask me about DSA, competitive programming, or LeetCode problems.<br> Fun fact: I grind DSA in my free time, love competitive programming, and enjoy solving LeetCode challenges.
+I’m currently working on learning Machine Learning and Data Science.<br> I’m looking to collaborate with people who are interested in ML and tech.<br> I’m currently learning Python, data analysis, and ML fundamentals.<br> Ask me about DSA, competitive programming, or LeetCode problems.<br> Fun fact: I grind DSA in my free time, love competitive programming, and enjoy solving LeetCode challenges.
 
 
 ## 🌐 Socials:
