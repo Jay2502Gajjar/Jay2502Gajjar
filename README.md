@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m currently working on learning Machine Learning and Data Science.<br> I’m looking to collaborate with people who are interested in ML and tech.<br> I’m currently learning Python, data analysis, and ML fundamentals.<br> Ask me about DSA, competitive programming, or LeetCode problems.<br> Fun fact: I grind DSA in my free time, love competitive programming, and enjoy solving LeetCode challenges.
+I’m a B.Tech ICT student passionate about full-stack development, AI, Blockchain, and DevOps.<br>
+Currently building scalable web applications using React, Next.js, Spring Boot, and PostgreSQL.<br>
+Interested in Machine Learning, Data Science, AI-driven systems, cloud technologies, and modern development workflows.<br>
+Strong in DSA and competitive programming with a 1700+ LeetCode rating and 350+ problems solved.<br>
+Open to collaborating on innovative tech projects, hackathons, and development communities.<br>
+Fun fact: I enjoy grinding LeetCode, building projects, and turning ideas into real-world applications.
 
 
 ## 🌐 Socials:
