@@ -1,10 +1,10 @@
 # 💫 About Me:
 I’m a B.Tech ICT student passionate about full-stack development, AI, Blockchain, and DevOps.<br>
-Currently building scalable web applications using React, Next.js, Spring Boot, and PostgreSQL.<br>
-Interested in Machine Learning, Data Science, AI-driven systems, cloud technologies, and modern development workflows.<br>
-Strong in DSA and competitive programming with a 1700+ LeetCode rating and 350+ problems solved.<br>
-Open to collaborating on innovative tech projects, hackathons, and development communities.<br>
-Fun fact: I enjoy grinding LeetCode, building projects, and turning ideas into real-world applications.
+Currently building scalable web applications using React, Next.js, Spring Boot, and PostgreSQL while exploring modern tech stacks.<br>
+Interested in Machine Learning, Data Science, cloud technologies, and AI-driven systems that solve real-world problems.<br>
+Usually found debugging code, solving DSA problems, building random side projects, or convincing myself that “this bug will only take 5 minutes.”<br>
+Open to collaborating on innovative projects, hackathons, and tech communities.<br>
+Fun fact: I treat LeetCode streaks more seriously than my sleep schedule.
 
 
 ## 🌐 Socials:
